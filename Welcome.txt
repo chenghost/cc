@@ -1,0 +1,6 @@
+public class Welcome{
+     public static void main(String[] args){
+	    System.out.println('hello java!我是尚学堂学员，陈程');
+	 }
+
+}
